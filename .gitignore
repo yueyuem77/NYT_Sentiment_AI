@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Colab/IPython
+*.ipynb_checkpoints
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# macOS
+.DS_Store
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.json
+*.xlsx
+
+
+# Env
+.env
+*.env
